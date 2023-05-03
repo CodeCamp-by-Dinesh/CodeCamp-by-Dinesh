@@ -1,7 +1,5 @@
 <h1 align="left">Dinesh Kumar Wadhwa</h1>
-<h3 align="center">I'm a self-taught passionate Full Stack Developer from India 🇮🇳</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codecamp-by-dinesh" alt="codecamp-by-dinesh" /></a> </p>
+<h3 align="left">I'm a self-taught passionate Full Stack Developer from India 🇮🇳</h3>
 
 - 👯 I’m looking to collaborate on **US Clients**
 
@@ -20,3 +18,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codecamp-by-dinesh&show_icons=true&locale=en&layout=compact" alt="codecamp-by-dinesh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codecamp-by-dinesh&" alt="codecamp-by-dinesh" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codecamp-by-dinesh" alt="codecamp-by-dinesh" /></a> </p>
